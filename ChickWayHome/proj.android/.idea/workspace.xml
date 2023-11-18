@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1f3a93f-811a-44ef-a0b9-bb5926848fae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="427ce435" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="D:\Cocos\AndroidProject\ChickWayHome\proj.android\jks\chickwayhome.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+  </component>
+  <component name="ProjectId" id="2WVMpfAKMSnVHQnVWWar3kr2WpL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="ChickWayHome" />
+    <property name="BundleExportedModule" value="ChickWayHome" />
+    <property name="ExportApk.ApkPath" value="D:\Cocos\AndroidProject\ChickWayHome\proj.android\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="D:/software/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jks" />
+    <property name="project.structure.last.edited" value="Variables" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChickWayHome" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ChickWayHome" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1f3a93f-811a-44ef-a0b9-bb5926848fae" name="Default Changelist" comment="" />
+      <created>1696813477878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696813477878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="72" key="#PSD" timestamp="1700057757469">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="555" y="72" key="#PSD/0.0.1536.816@0.0.1536.816" timestamp="1700057757469" />
+    <state x="475" y="263" key="FileChooserDialogImpl" timestamp="1700059223304">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="475" y="263" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1700059223304" />
+    <state width="745" height="165" key="GridCell.Tab.0.bottom" timestamp="1700058138285">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="745" height="165" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1700058138285" />
+    <state width="745" height="165" key="GridCell.Tab.0.center" timestamp="1700058138285">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="745" height="165" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1700058138285" />
+    <state width="745" height="165" key="GridCell.Tab.0.left" timestamp="1700058138284">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="745" height="165" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1700058138284" />
+    <state width="745" height="165" key="GridCell.Tab.0.right" timestamp="1700058138285">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="745" height="165" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1700058138285" />
+    <state x="555" y="92" key="SettingsEditor" timestamp="1700057979697">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="555" y="92" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1700057979697" />
+    <state x="210" y="465" key="com.intellij.ide.util.TipDialog" timestamp="1700273051759">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="210" y="465" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1700273051759" />
+  </component>
+</project>
