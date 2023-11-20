@@ -56,5 +56,5 @@ http://
  
 　たくさん弾いた数ほど、ステージ選択画面のボタンには星の得点が削られます。
 
-　<img src="https://github.com/KASHIHARA-GITHUB/ChickWayHome_Cocos2dx/assets/69448136/706c4ea4-6285-4728-b2d7-473f8929eb51" alt="代替テキスト" width="40%" />
-　<img src="https://github.com/KASHIHARA-GITHUB/ChickWayHome_Cocos2dx/assets/69448136/b50f08b4-5489-4357-9458-539ac09dc414" alt="代替テキスト" width="40%" />
+　<img src="./ゲーム画面1.png" alt="代替テキスト" width="40%" />
+　<img src="./ゲーム画面2.png" alt="代替テキスト" width="40%" />
