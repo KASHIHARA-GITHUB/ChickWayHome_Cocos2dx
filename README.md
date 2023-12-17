@@ -1,8 +1,8 @@
-# ChickWayHome(ひよこの帰り道)
+# ひよこの帰り道
 
 ## URL
 
-http://
+https://play.google.com/store/apps/details?id=org.cocos2dx.ChickWayHome
 
 ## ゲーム概要
 
