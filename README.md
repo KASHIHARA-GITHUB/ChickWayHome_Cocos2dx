@@ -10,7 +10,7 @@ https://play.google.com/store/apps/details?id=org.cocos2dx.ChickWayHome
 
 途中には様々なアイテムやギミック、そして障害物が待ち構えています。
 
-## 製作期間
+## 制作期間
 
 2023/11/01 ～ 2023/11/31
 
