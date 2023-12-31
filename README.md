@@ -12,7 +12,7 @@ https://play.google.com/store/apps/details?id=org.cocos2dx.ChickWayHome
 
 ## 制作期間
 
-2023/11/01 ～ 2023/11/31
+2023/11/01 ～ 2023/11/30
 
 ## 開発環境
 
