@@ -15,7 +15,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="427ce435" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -31,7 +30,8 @@
   <component name="GenerateSignedApkSettings">
     <option name="EXPORT_PRIVATE_KEY" value="false" />
     <option name="KEY_STORE_PATH" value="D:\Cocos\AndroidProject\ChickWayHome\proj.android\jks\chickwayhome.jks" />
-    <option name="KEY_ALIAS" value="key0" />
+    <option name="KEY_ALIAS" value="key3" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
   <component name="ProjectId" id="2WVMpfAKMSnVHQnVWWar3kr2WpL" />
   <component name="ProjectViewState">
@@ -46,8 +46,8 @@
     <property name="ExportApk.BuildVariants" value="release" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="D:/software/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/jks" />
-    <property name="project.structure.last.edited" value="Variables" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CollisionChaos/proj.android" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -126,14 +126,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="72" key="#PSD" timestamp="1700057757469">
+    <state x="208" y="103" key="#PSD" timestamp="1703395668850">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="555" y="72" key="#PSD/0.0.1536.816@0.0.1536.816" timestamp="1700057757469" />
-    <state x="475" y="263" key="FileChooserDialogImpl" timestamp="1700059223304">
+    <state x="208" y="103" key="#PSD/0.0.1536.816@0.0.1536.816" timestamp="1703395668850" />
+    <state x="475" y="263" key="FileChooserDialogImpl" timestamp="1703395920105">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="475" y="263" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1700059223304" />
+    <state x="475" y="263" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1703395920105" />
     <state width="745" height="165" key="GridCell.Tab.0.bottom" timestamp="1700058138285">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -154,9 +154,9 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="555" y="92" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1700057979697" />
-    <state x="210" y="465" key="com.intellij.ide.util.TipDialog" timestamp="1700273051759">
+    <state x="210" y="465" key="com.intellij.ide.util.TipDialog" timestamp="1703395907440">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="210" y="465" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1700273051759" />
+    <state x="210" y="465" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1703395907440" />
   </component>
 </project>

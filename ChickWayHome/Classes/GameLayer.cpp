@@ -483,7 +483,7 @@ void GameLayer::onTouchEnded(Touch* pm_Touch, Event* pm_Unused_event) {
             w_Vec = Vec2(x, y) * 500000;
         } else {
             // ベクトルの長さ×強さ
-            w_Vec = w_Vec * 1000;
+            w_Vec = w_Vec * 1050;
         }
 
         // 矢印非表示 && 罰を表示
